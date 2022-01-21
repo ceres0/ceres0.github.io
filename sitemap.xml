@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://ceres0,github.io/project/2022/01/19/P1019[NOIP2000%E6%8F%90%E9%AB%98%E7%BB%84]%E5%8D%95%E8%AF%8D%E6%8E%A5%E9%BE%99%E9%A2%98%E8%A7%A3/</loc>
+    
+    <lastmod>2022-01-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://ceres0,github.io/project/2022/01/19/2022%E5%B9%B41%E6%9C%8819%E6%97%A5%E6%97%A5%E5%BF%97/</loc>
+    
+    <lastmod>2022-01-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://ceres0,github.io/project/2022/01/18/2022%E5%B9%B41%E6%9C%8818%E6%97%A5%E6%97%A5%E5%BF%97/</loc>
     
     <lastmod>2022-01-18</lastmod>
@@ -49,7 +67,7 @@
 
   <url>
     <loc>http://ceres0,github.io/project</loc>
-    <lastmod>2022-01-18</lastmod>
+    <lastmod>2022-01-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -57,7 +75,14 @@
   
   <url>
     <loc>http://ceres0,github.io/project/tags/%E6%97%A5%E5%BF%97/</loc>
-    <lastmod>2022-01-18</lastmod>
+    <lastmod>2022-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://ceres0,github.io/project/tags/%E9%A2%98%E8%A7%A3/</loc>
+    <lastmod>2022-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
